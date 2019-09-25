@@ -1,3 +1,3 @@
 # SMLproject
 
-Find the final [my directory](StatisticalMachineLearningProject1Team69.pdf)
+Find the final report [here](StatisticalMachineLearningProject1Team69.pdf)
